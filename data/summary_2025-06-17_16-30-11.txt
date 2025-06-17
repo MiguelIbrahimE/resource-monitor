@@ -1,0 +1,6 @@
+Run started : 2025-06-17_16-30-11
+Run ended   : 2025-06-17_16-30-32
+Duration    : 20 s
+
+CPU usage % : min 16.3 · max 41.3 · avg 27.1
+RAM used MB : min 2945.2 · max 3053.3 · avg 2995.2
